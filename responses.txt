@@ -1,0 +1,14 @@
+angry,Why are you angry?
+sad,What made you feel sad?
+happy,That sounds great!
+tired,Maybe you need some rest.
+no,Why so negative?
+yes,I'm glad to hear that!
+you,This isn't about me.
+good,Why?
+bored,Maybe try something new!
+confused,Can you explain what's confusing you?
+excited,What are you excited about?
+lonely,I am always here for you. You're not alone.
+nervous,What is making you nervous?
+love,I want to know more. Tell me more.
